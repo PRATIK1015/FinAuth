@@ -1,0 +1,23 @@
+{
+  "name": "finauth",
+  "version": "1.0.0",
+  "description": "This is a npm package for fintech service provoders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRATIK1015/FinAuth.git"
+  },
+  "keywords": [
+    "FinTech",
+    "Auth"
+  ],
+  "author": "Pratik Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRATIK1015/FinAuth/issues"
+  },
+  "homepage": "https://github.com/PRATIK1015/FinAuth#readme"
+}
