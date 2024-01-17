@@ -2,9 +2,11 @@
   "name": "finauth",
   "version": "1.0.0",
   "description": "This is a npm package for fintech service provoders",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc -p ."
   },
   "repository": {
     "type": "git",
